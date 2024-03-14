@@ -1,0 +1,841 @@
+index,emoji,name,group,sub_group,codepoints
+13,🥰,smiling face with hearts,Smileys & Emotion,face-positive,1F970
+14,😍,smiling face with heart-eyes,Smileys & Emotion,face-positive,1F60D
+15,🤩,star-struck,Smileys & Emotion,face-positive,1F929
+16,😘,face blowing a kiss,Smileys & Emotion,face-positive,1F618
+17,😗,kissing face,Smileys & Emotion,face-positive,1F617
+18,☺️,smiling face,Smileys & Emotion,face-positive,263A FE0F
+19,☺,smiling face,Smileys & Emotion,face-positive,263A
+20,😚,kissing face with closed eyes,Smileys & Emotion,face-positive,1F61A
+21,😙,kissing face with smiling eyes,Smileys & Emotion,face-positive,1F619
+22,🥲,smiling face with tear,Smileys & Emotion,face-positive,1F972
+33,🤐,zipper-mouth face,Smileys & Emotion,face-negative,1F910
+34,🤨,face with raised eyebrow,Smileys & Emotion,face-negative,1F928
+35,😐,neutral face,Smileys & Emotion,face-negative,1F610
+36,😑,expressionless face,Smileys & Emotion,face-negative,1F611
+37,😶,face without mouth,Smileys & Emotion,face-negative,1F636
+38,😏,smirking face,Smileys & Emotion,face-negative,1F60F
+39,😒,unamused face,Smileys & Emotion,face-negative,1F612
+40,🙄,face with rolling eyes,Smileys & Emotion,face-negative,1F644
+41,😬,grimacing face,Smileys & Emotion,face-negative,1F62C
+42,🤥,lying face,Smileys & Emotion,face-negative,1F925
+43,😌,relieved face,Smileys & Emotion,face-negative,1F60C
+44,😔,pensive face,Smileys & Emotion,face-negative,1F614
+45,😪,sleepy face,Smileys & Emotion,face-negative,1F62A
+46,🤤,drooling face,Smileys & Emotion,face-negative,1F924
+47,😴,sleeping face,Smileys & Emotion,face-negative,1F634
+48,😷,face with medical mask,Smileys & Emotion,face-negative,1F637
+49,🤒,face with thermometer,Smileys & Emotion,face-negative,1F912
+50,🤕,face with head-bandage,Smileys & Emotion,face-negative,1F915
+51,🤢,nauseated face,Smileys & Emotion,face-negative,1F922
+52,🤮,face vomiting,Smileys & Emotion,face-negative,1F92E
+53,🤧,sneezing face,Smileys & Emotion,face-negative,1F927
+54,🥵,hot face,Smileys & Emotion,face-negative,1F975
+55,🥶,cold face,Smileys & Emotion,face-negative,1F976
+56,🥴,woozy face,Smileys & Emotion,face-negative,1F974
+57,😵,dizzy face,Smileys & Emotion,face-negative,1F635
+58,🤯,exploding head,Smileys & Emotion,face-negative,1F92F
+65,😕,confused face,Smileys & Emotion,face-positive,1F615
+66,😟,worried face,Smileys & Emotion,face-positive,1F61F
+67,🙁,slightly frowning face,Smileys & Emotion,face-positive,1F641
+68,☹️,frowning face,Smileys & Emotion,face-positive,2639 FE0F
+69,☹,frowning face,Smileys & Emotion,face-positive,2639
+70,😮,face with open mouth,Smileys & Emotion,face-positive,1F62E
+71,😯,hushed face,Smileys & Emotion,face-positive,1F62F
+72,😲,astonished face,Smileys & Emotion,face-positive,1F632
+73,😳,flushed face,Smileys & Emotion,face-positive,1F633
+74,🥺,pleading face,Smileys & Emotion,face-positive,1F97A
+75,😦,frowning face with open mouth,Smileys & Emotion,face-positive,1F626
+76,😧,anguished face,Smileys & Emotion,face-positive,1F627
+77,😨,fearful face,Smileys & Emotion,face-positive,1F628
+78,😰,anxious face with sweat,Smileys & Emotion,face-positive,1F630
+79,😥,sad but relieved face,Smileys & Emotion,face-positive,1F625
+80,😢,crying face,Smileys & Emotion,face-positive,1F622
+81,😭,loudly crying face,Smileys & Emotion,face-positive,1F62D
+82,😱,face screaming in fear,Smileys & Emotion,face-positive,1F631
+83,😖,confounded face,Smileys & Emotion,face-positive,1F616
+84,😣,persevering face,Smileys & Emotion,face-positive,1F623
+85,😞,disappointed face,Smileys & Emotion,face-positive,1F61E
+86,😓,downcast face with sweat,Smileys & Emotion,face-positive,1F613
+87,😩,weary face,Smileys & Emotion,face-positive,1F629
+88,😫,tired face,Smileys & Emotion,face-positive,1F62B
+89,🥱,yawning face,Smileys & Emotion,face-positive,1F971
+90,😤,face with steam from nose,Smileys & Emotion,face-negative,1F624
+91,😡,pouting face,Smileys & Emotion,face-negative,1F621
+92,😠,angry face,Smileys & Emotion,face-negative,1F620
+93,🤬,face with symbols on mouth,Smileys & Emotion,face-negative,1F92C
+94,😈,smiling face with horns,Smileys & Emotion,face-negative,1F608
+95,👿,angry face with horns,Smileys & Emotion,face-negative,1F47F
+96,💀,skull,Smileys & Emotion,face-negative,1F480
+97,☠️,skull and crossbones,Smileys & Emotion,face-negative,2620 FE0F
+98,☠,skull and crossbones,Smileys & Emotion,face-negative,2620
+127,💕,two hearts,Smileys & Emotion,emotion,1F495
+128,💟,heart decoration,Smileys & Emotion,emotion,1F49F
+129,❣️,heart exclamation,Smileys & Emotion,emotion,2763 FE0F
+130,❣,heart exclamation,Smileys & Emotion,emotion,2763
+131,💔,broken heart,Smileys & Emotion,emotion,1F494
+132,❤️,red heart,Smileys & Emotion,emotion,2764 FE0F
+133,❤,red heart,Smileys & Emotion,emotion,2764
+134,🧡,orange heart,Smileys & Emotion,emotion,1F9E1
+135,💛,yellow heart,Smileys & Emotion,emotion,1F49B
+136,💚,green heart,Smileys & Emotion,emotion,1F49A
+137,💙,blue heart,Smileys & Emotion,emotion,1F499
+138,💜,purple heart,Smileys & Emotion,emotion,1F49C
+139,🤎,brown heart,Smileys & Emotion,emotion,1F90E
+140,🖤,black heart,Smileys & Emotion,emotion,1F5A4
+141,🤍,white heart,Smileys & Emotion,emotion,1F90D
+142,💯,hundred points,Smileys & Emotion,emotion,1F4AF
+143,💢,anger symbol,Smileys & Emotion,emotion,1F4A2
+144,💥,collision,Smileys & Emotion,emotion,1F4A5
+145,💫,dizzy,Smileys & Emotion,emotion,1F4AB
+146,💦,sweat droplets,Smileys & Emotion,emotion,1F4A6
+147,💨,dashing away,Smileys & Emotion,emotion,1F4A8
+148,🕳️,hole,Smileys & Emotion,emotion,1F573 FE0F
+149,🕳,hole,Smileys & Emotion,emotion,1F573
+150,💣,bomb,Smileys & Emotion,emotion,1F4A3
+151,💬,speech balloon,Smileys & Emotion,emotion,1F4AC
+152,👁️‍🗨️,eye in speech bubble,Smileys & Emotion,emotion,1F441 FE0F 200D 1F5E8 FE0F
+153,👁‍🗨️,eye in speech bubble,Smileys & Emotion,emotion,1F441 200D 1F5E8 FE0F
+154,👁️‍🗨,eye in speech bubble,Smileys & Emotion,emotion,1F441 FE0F 200D 1F5E8
+155,👁‍🗨,eye in speech bubble,Smileys & Emotion,emotion,1F441 200D 1F5E8
+156,🗨️,left speech bubble,Smileys & Emotion,emotion,1F5E8 FE0F
+157,🗨,left speech bubble,Smileys & Emotion,emotion,1F5E8
+158,🗯️,right anger bubble,Smileys & Emotion,emotion,1F5EF FE0F
+159,🗯,right anger bubble,Smileys & Emotion,emotion,1F5EF
+160,💭,thought balloon,Smileys & Emotion,emotion,1F4AD
+161,💤,zzz,Smileys & Emotion,emotion,1F4A4
+207,🤏🏼,pinching hand: medium-light skin tone,People & Body,hand-fingers-partial,1F90F 1F3FC
+208,🤏🏽,pinching hand: medium skin tone,People & Body,hand-fingers-partial,1F90F 1F3FD
+209,🤏🏾,pinching hand: medium-dark skin tone,People & Body,hand-fingers-partial,1F90F 1F3FE
+210,🤏🏿,pinching hand: dark skin tone,People & Body,hand-fingers-partial,1F90F 1F3FF
+211,✌️,victory hand,People & Body,hand-fingers-partial,270C FE0F
+212,✌,victory hand,People & Body,hand-fingers-partial,270C
+213,✌🏻,victory hand: light skin tone,People & Body,hand-fingers-partial,270C 1F3FB
+214,✌🏼,victory hand: medium-light skin tone,People & Body,hand-fingers-partial,270C 1F3FC
+215,✌🏽,victory hand: medium skin tone,People & Body,hand-fingers-partial,270C 1F3FD
+216,✌🏾,victory hand: medium-dark skin tone,People & Body,hand-fingers-partial,270C 1F3FE
+217,✌🏿,victory hand: dark skin tone,People & Body,hand-fingers-partial,270C 1F3FF
+218,🤞,crossed fingers,People & Body,hand-fingers-partial,1F91E
+219,🤞🏻,crossed fingers: light skin tone,People & Body,hand-fingers-partial,1F91E 1F3FB
+220,🤞🏼,crossed fingers: medium-light skin tone,People & Body,hand-fingers-partial,1F91E 1F3FC
+221,🤞🏽,crossed fingers: medium skin tone,People & Body,hand-fingers-partial,1F91E 1F3FD
+222,🤞🏾,crossed fingers: medium-dark skin tone,People & Body,hand-fingers-partial,1F91E 1F3FE
+223,🤞🏿,crossed fingers: dark skin tone,People & Body,hand-fingers-partial,1F91E 1F3FF
+224,🤟,love-you gesture,People & Body,hand-fingers-partial,1F91F
+225,🤟🏻,love-you gesture: light skin tone,People & Body,hand-fingers-partial,1F91F 1F3FB
+226,🤟🏼,love-you gesture: medium-light skin tone,People & Body,hand-fingers-partial,1F91F 1F3FC
+227,🤟🏽,love-you gesture: medium skin tone,People & Body,hand-fingers-partial,1F91F 1F3FD
+228,🤟🏾,love-you gesture: medium-dark skin tone,People & Body,hand-fingers-partial,1F91F 1F3FE
+229,🤟🏿,love-you gesture: dark skin tone,People & Body,hand-fingers-partial,1F91F 1F3FF
+230,🤘,sign of the horns,People & Body,hand-fingers-partial,1F918
+231,🤘🏻,sign of the horns: light skin tone,People & Body,hand-fingers-partial,1F918 1F3FB
+232,🤘🏼,sign of the horns: medium-light skin tone,People & Body,hand-fingers-partial,1F918 1F3FC
+233,🤘🏽,sign of the horns: medium skin tone,People & Body,hand-fingers-partial,1F918 1F3FD
+234,🤘🏾,sign of the horns: medium-dark skin tone,People & Body,hand-fingers-partial,1F918 1F3FE
+235,🤘🏿,sign of the horns: dark skin tone,People & Body,hand-fingers-partial,1F918 1F3FF
+236,🤙,call me hand,People & Body,hand-fingers-partial,1F919
+237,🤙🏻,call me hand: light skin tone,People & Body,hand-fingers-partial,1F919 1F3FB
+238,🤙🏼,call me hand: medium-light skin tone,People & Body,hand-fingers-partial,1F919 1F3FC
+239,🤙🏽,call me hand: medium skin tone,People & Body,hand-fingers-partial,1F919 1F3FD
+240,🤙🏾,call me hand: medium-dark skin tone,People & Body,hand-fingers-partial,1F919 1F3FE
+241,🤙🏿,call me hand: dark skin tone,People & Body,hand-fingers-partial,1F919 1F3FF
+244,👈🏼,backhand index pointing left: medium-light skin tone,People & Body,hand-single-finger,1F448 1F3FC
+245,👈🏽,backhand index pointing left: medium skin tone,People & Body,hand-single-finger,1F448 1F3FD
+246,👈🏾,backhand index pointing left: medium-dark skin tone,People & Body,hand-single-finger,1F448 1F3FE
+247,👈🏿,backhand index pointing left: dark skin tone,People & Body,hand-single-finger,1F448 1F3FF
+248,👉,backhand index pointing right,People & Body,hand-single-finger,1F449
+249,👉🏻,backhand index pointing right: light skin tone,People & Body,hand-single-finger,1F449 1F3FB
+250,👉🏼,backhand index pointing right: medium-light skin tone,People & Body,hand-single-finger,1F449 1F3FC
+251,👉🏽,backhand index pointing right: medium skin tone,People & Body,hand-single-finger,1F449 1F3FD
+252,👉🏾,backhand index pointing right: medium-dark skin tone,People & Body,hand-single-finger,1F449 1F3FE
+253,👉🏿,backhand index pointing right: dark skin tone,People & Body,hand-single-finger,1F449 1F3FF
+254,👆,backhand index pointing up,People & Body,hand-single-finger,1F446
+255,👆🏻,backhand index pointing up: light skin tone,People & Body,hand-single-finger,1F446 1F3FB
+256,👆🏼,backhand index pointing up: medium-light skin tone,People & Body,hand-single-finger,1F446 1F3FC
+257,👆🏽,backhand index pointing up: medium skin tone,People & Body,hand-single-finger,1F446 1F3FD
+258,👆🏾,backhand index pointing up: medium-dark skin tone,People & Body,hand-single-finger,1F446 1F3FE
+259,👆🏿,backhand index pointing up: dark skin tone,People & Body,hand-single-finger,1F446 1F3FF
+260,🖕,middle finger,People & Body,hand-single-finger,1F595
+261,🖕🏻,middle finger: light skin tone,People & Body,hand-single-finger,1F595 1F3FB
+262,🖕🏼,middle finger: medium-light skin tone,People & Body,hand-single-finger,1F595 1F3FC
+263,🖕🏽,middle finger: medium skin tone,People & Body,hand-single-finger,1F595 1F3FD
+264,🖕🏾,middle finger: medium-dark skin tone,People & Body,hand-single-finger,1F595 1F3FE
+265,🖕🏿,middle finger: dark skin tone,People & Body,hand-single-finger,1F595 1F3FF
+266,👇,backhand index pointing down,People & Body,hand-single-finger,1F447
+267,👇🏻,backhand index pointing down: light skin tone,People & Body,hand-single-finger,1F447 1F3FB
+268,👇🏼,backhand index pointing down: medium-light skin tone,People & Body,hand-single-finger,1F447 1F3FC
+269,👇🏽,backhand index pointing down: medium skin tone,People & Body,hand-single-finger,1F447 1F3FD
+270,👇🏾,backhand index pointing down: medium-dark skin tone,People & Body,hand-single-finger,1F447 1F3FE
+271,👇🏿,backhand index pointing down: dark skin tone,People & Body,hand-single-finger,1F447 1F3FF
+272,☝️,index pointing up,People & Body,hand-single-finger,261D FE0F
+273,☝,index pointing up,People & Body,hand-single-finger,261D
+274,☝🏻,index pointing up: light skin tone,People & Body,hand-single-finger,261D 1F3FB
+275,☝🏼,index pointing up: medium-light skin tone,People & Body,hand-single-finger,261D 1F3FC
+276,☝🏽,index pointing up: medium skin tone,People & Body,hand-single-finger,261D 1F3FD
+277,☝🏾,index pointing up: medium-dark skin tone,People & Body,hand-single-finger,261D 1F3FE
+278,☝🏿,index pointing up: dark skin tone,People & Body,hand-single-finger,261D 1F3FF
+280,👍🏻,thumbs up: light skin tone,People & Body,hand-fingers-closed,1F44D 1F3FB
+281,👍🏼,thumbs up: medium-light skin tone,People & Body,hand-fingers-closed,1F44D 1F3FC
+282,👍🏽,thumbs up: medium skin tone,People & Body,hand-fingers-closed,1F44D 1F3FD
+283,👍🏾,thumbs up: medium-dark skin tone,People & Body,hand-fingers-closed,1F44D 1F3FE
+284,👍🏿,thumbs up: dark skin tone,People & Body,hand-fingers-closed,1F44D 1F3FF
+285,👎,thumbs down,People & Body,hand-fingers-closed,1F44E
+286,👎🏻,thumbs down: light skin tone,People & Body,hand-fingers-closed,1F44E 1F3FB
+287,👎🏼,thumbs down: medium-light skin tone,People & Body,hand-fingers-closed,1F44E 1F3FC
+288,👎🏽,thumbs down: medium skin tone,People & Body,hand-fingers-closed,1F44E 1F3FD
+289,👎🏾,thumbs down: medium-dark skin tone,People & Body,hand-fingers-closed,1F44E 1F3FE
+290,👎🏿,thumbs down: dark skin tone,People & Body,hand-fingers-closed,1F44E 1F3FF
+291,✊,raised fist,People & Body,hand-fingers-closed,270A
+292,✊🏻,raised fist: light skin tone,People & Body,hand-fingers-closed,270A 1F3FB
+293,✊🏼,raised fist: medium-light skin tone,People & Body,hand-fingers-closed,270A 1F3FC
+294,✊🏽,raised fist: medium skin tone,People & Body,hand-fingers-closed,270A 1F3FD
+295,✊🏾,raised fist: medium-dark skin tone,People & Body,hand-fingers-closed,270A 1F3FE
+296,✊🏿,raised fist: dark skin tone,People & Body,hand-fingers-closed,270A 1F3FF
+297,👊,oncoming fist,People & Body,hand-fingers-closed,1F44A
+298,👊🏻,oncoming fist: light skin tone,People & Body,hand-fingers-closed,1F44A 1F3FB
+299,👊🏼,oncoming fist: medium-light skin tone,People & Body,hand-fingers-closed,1F44A 1F3FC
+300,👊🏽,oncoming fist: medium skin tone,People & Body,hand-fingers-closed,1F44A 1F3FD
+301,👊🏾,oncoming fist: medium-dark skin tone,People & Body,hand-fingers-closed,1F44A 1F3FE
+302,👊🏿,oncoming fist: dark skin tone,People & Body,hand-fingers-closed,1F44A 1F3FF
+303,🤛,left-facing fist,People & Body,hand-fingers-closed,1F91B
+304,🤛🏻,left-facing fist: light skin tone,People & Body,hand-fingers-closed,1F91B 1F3FB
+305,🤛🏼,left-facing fist: medium-light skin tone,People & Body,hand-fingers-closed,1F91B 1F3FC
+306,🤛🏽,left-facing fist: medium skin tone,People & Body,hand-fingers-closed,1F91B 1F3FD
+307,🤛🏾,left-facing fist: medium-dark skin tone,People & Body,hand-fingers-closed,1F91B 1F3FE
+308,🤛🏿,left-facing fist: dark skin tone,People & Body,hand-fingers-closed,1F91B 1F3FF
+309,🤜,right-facing fist,People & Body,hand-fingers-closed,1F91C
+310,🤜🏻,right-facing fist: light skin tone,People & Body,hand-fingers-closed,1F91C 1F3FB
+311,🤜🏼,right-facing fist: medium-light skin tone,People & Body,hand-fingers-closed,1F91C 1F3FC
+312,🤜🏽,right-facing fist: medium skin tone,People & Body,hand-fingers-closed,1F91C 1F3FD
+313,🤜🏾,right-facing fist: medium-dark skin tone,People & Body,hand-fingers-closed,1F91C 1F3FE
+314,🤜🏿,right-facing fist: dark skin tone,People & Body,hand-fingers-closed,1F91C 1F3FF
+378,🦵🏿,leg: dark skin tone,People & Body,body-parts,1F9B5 1F3FF
+379,🦶,foot,People & Body,body-parts,1F9B6
+380,🦶🏻,foot: light skin tone,People & Body,body-parts,1F9B6 1F3FB
+381,🦶🏼,foot: medium-light skin tone,People & Body,body-parts,1F9B6 1F3FC
+382,🦶🏽,foot: medium skin tone,People & Body,body-parts,1F9B6 1F3FD
+383,🦶🏾,foot: medium-dark skin tone,People & Body,body-parts,1F9B6 1F3FE
+384,🦶🏿,foot: dark skin tone,People & Body,body-parts,1F9B6 1F3FF
+385,👂,ear,People & Body,body-parts,1F442
+386,👂🏻,ear: light skin tone,People & Body,body-parts,1F442 1F3FB
+387,👂🏼,ear: medium-light skin tone,People & Body,body-parts,1F442 1F3FC
+388,👂🏽,ear: medium skin tone,People & Body,body-parts,1F442 1F3FD
+389,👂🏾,ear: medium-dark skin tone,People & Body,body-parts,1F442 1F3FE
+390,👂🏿,ear: dark skin tone,People & Body,body-parts,1F442 1F3FF
+391,🦻,ear with hearing aid,People & Body,body-parts,1F9BB
+392,🦻🏻,ear with hearing aid: light skin tone,People & Body,body-parts,1F9BB 1F3FB
+393,🦻🏼,ear with hearing aid: medium-light skin tone,People & Body,body-parts,1F9BB 1F3FC
+394,🦻🏽,ear with hearing aid: medium skin tone,People & Body,body-parts,1F9BB 1F3FD
+395,🦻🏾,ear with hearing aid: medium-dark skin tone,People & Body,body-parts,1F9BB 1F3FE
+396,🦻🏿,ear with hearing aid: dark skin tone,People & Body,body-parts,1F9BB 1F3FF
+397,👃,nose,People & Body,body-parts,1F443
+398,👃🏻,nose: light skin tone,People & Body,body-parts,1F443 1F3FB
+399,👃🏼,nose: medium-light skin tone,People & Body,body-parts,1F443 1F3FC
+400,👃🏽,nose: medium skin tone,People & Body,body-parts,1F443 1F3FD
+401,👃🏾,nose: medium-dark skin tone,People & Body,body-parts,1F443 1F3FE
+402,👃🏿,nose: dark skin tone,People & Body,body-parts,1F443 1F3FF
+403,🧠,brain,People & Body,body-parts,1F9E0
+404,🫀,anatomical heart,People & Body,body-parts,1FAC0
+405,🫁,lungs,People & Body,body-parts,1FAC1
+406,🦷,tooth,People & Body,body-parts,1F9B7
+407,🦴,bone,People & Body,body-parts,1F9B4
+408,👀,eyes,People & Body,body-parts,1F440
+409,👁️,eye,People & Body,body-parts,1F441 FE0F
+410,👁,eye,People & Body,body-parts,1F441
+411,👅,tongue,People & Body,body-parts,1F445
+412,👄,mouth,People & Body,body-parts,1F444
+546,👱🏽‍♀,"woman: medium skin tone, blond hair",People & Body,person,1F471 1F3FD 200D 2640
+547,👱🏾‍♀️,"woman: medium-dark skin tone, blond hair",People & Body,person,1F471 1F3FE 200D 2640 FE0F
+548,👱🏾‍♀,"woman: medium-dark skin tone, blond hair",People & Body,person,1F471 1F3FE 200D 2640
+549,👱🏿‍♀️,"woman: dark skin tone, blond hair",People & Body,person,1F471 1F3FF 200D 2640 FE0F
+550,👱🏿‍♀,"woman: dark skin tone, blond hair",People & Body,person,1F471 1F3FF 200D 2640
+551,👱‍♂️,man: blond hair,People & Body,person,1F471 200D 2642 FE0F
+552,👱‍♂,man: blond hair,People & Body,person,1F471 200D 2642
+553,👱🏻‍♂️,"man: light skin tone, blond hair",People & Body,person,1F471 1F3FB 200D 2642 FE0F
+554,👱🏻‍♂,"man: light skin tone, blond hair",People & Body,person,1F471 1F3FB 200D 2642
+555,👱🏼‍♂️,"man: medium-light skin tone, blond hair",People & Body,person,1F471 1F3FC 200D 2642 FE0F
+556,👱🏼‍♂,"man: medium-light skin tone, blond hair",People & Body,person,1F471 1F3FC 200D 2642
+557,👱🏽‍♂️,"man: medium skin tone, blond hair",People & Body,person,1F471 1F3FD 200D 2642 FE0F
+558,👱🏽‍♂,"man: medium skin tone, blond hair",People & Body,person,1F471 1F3FD 200D 2642
+559,👱🏾‍♂️,"man: medium-dark skin tone, blond hair",People & Body,person,1F471 1F3FE 200D 2642 FE0F
+560,👱🏾‍♂,"man: medium-dark skin tone, blond hair",People & Body,person,1F471 1F3FE 200D 2642
+561,👱🏿‍♂️,"man: dark skin tone, blond hair",People & Body,person,1F471 1F3FF 200D 2642 FE0F
+562,👱🏿‍♂,"man: dark skin tone, blond hair",People & Body,person,1F471 1F3FF 200D 2642
+563,🧓,older person,People & Body,person,1F9D3
+564,🧓🏻,older person: light skin tone,People & Body,person,1F9D3 1F3FB
+565,🧓🏼,older person: medium-light skin tone,People & Body,person,1F9D3 1F3FC
+566,🧓🏽,older person: medium skin tone,People & Body,person,1F9D3 1F3FD
+567,🧓🏾,older person: medium-dark skin tone,People & Body,person,1F9D3 1F3FE
+568,🧓🏿,older person: dark skin tone,People & Body,person,1F9D3 1F3FF
+569,👴,old man,People & Body,person,1F474
+570,👴🏻,old man: light skin tone,People & Body,person,1F474 1F3FB
+571,👴🏼,old man: medium-light skin tone,People & Body,person,1F474 1F3FC
+572,👴🏽,old man: medium skin tone,People & Body,person,1F474 1F3FD
+573,👴🏾,old man: medium-dark skin tone,People & Body,person,1F474 1F3FE
+574,👴🏿,old man: dark skin tone,People & Body,person,1F474 1F3FF
+575,👵,old woman,People & Body,person,1F475
+576,👵🏻,old woman: light skin tone,People & Body,person,1F475 1F3FB
+577,👵🏼,old woman: medium-light skin tone,People & Body,person,1F475 1F3FC
+578,👵🏽,old woman: medium skin tone,People & Body,person,1F475 1F3FD
+579,👵🏾,old woman: medium-dark skin tone,People & Body,person,1F475 1F3FE
+580,👵🏿,old woman: dark skin tone,People & Body,person,1F475 1F3FF
+846,🤦🏽‍♀,woman facepalming: medium skin tone,People & Body,person-gesture,1F926 1F3FD 200D 2640
+847,🤦🏾‍♀️,woman facepalming: medium-dark skin tone,People & Body,person-gesture,1F926 1F3FE 200D 2640 FE0F
+848,🤦🏾‍♀,woman facepalming: medium-dark skin tone,People & Body,person-gesture,1F926 1F3FE 200D 2640
+849,🤦🏿‍♀️,woman facepalming: dark skin tone,People & Body,person-gesture,1F926 1F3FF 200D 2640 FE0F
+850,🤦🏿‍♀,woman facepalming: dark skin tone,People & Body,person-gesture,1F926 1F3FF 200D 2640
+851,🤷,person shrugging,People & Body,person-gesture,1F937
+852,🤷🏻,person shrugging: light skin tone,People & Body,person-gesture,1F937 1F3FB
+853,🤷🏼,person shrugging: medium-light skin tone,People & Body,person-gesture,1F937 1F3FC
+854,🤷🏽,person shrugging: medium skin tone,People & Body,person-gesture,1F937 1F3FD
+855,🤷🏾,person shrugging: medium-dark skin tone,People & Body,person-gesture,1F937 1F3FE
+856,🤷🏿,person shrugging: dark skin tone,People & Body,person-gesture,1F937 1F3FF
+857,🤷‍♂️,man shrugging,People & Body,person-gesture,1F937 200D 2642 FE0F
+858,🤷‍♂,man shrugging,People & Body,person-gesture,1F937 200D 2642
+859,🤷🏻‍♂️,man shrugging: light skin tone,People & Body,person-gesture,1F937 1F3FB 200D 2642 FE0F
+860,🤷🏻‍♂,man shrugging: light skin tone,People & Body,person-gesture,1F937 1F3FB 200D 2642
+861,🤷🏼‍♂️,man shrugging: medium-light skin tone,People & Body,person-gesture,1F937 1F3FC 200D 2642 FE0F
+862,🤷🏼‍♂,man shrugging: medium-light skin tone,People & Body,person-gesture,1F937 1F3FC 200D 2642
+863,🤷🏽‍♂️,man shrugging: medium skin tone,People & Body,person-gesture,1F937 1F3FD 200D 2642 FE0F
+864,🤷🏽‍♂,man shrugging: medium skin tone,People & Body,person-gesture,1F937 1F3FD 200D 2642
+865,🤷🏾‍♂️,man shrugging: medium-dark skin tone,People & Body,person-gesture,1F937 1F3FE 200D 2642 FE0F
+866,🤷🏾‍♂,man shrugging: medium-dark skin tone,People & Body,person-gesture,1F937 1F3FE 200D 2642
+867,🤷🏿‍♂️,man shrugging: dark skin tone,People & Body,person-gesture,1F937 1F3FF 200D 2642 FE0F
+868,🤷🏿‍♂,man shrugging: dark skin tone,People & Body,person-gesture,1F937 1F3FF 200D 2642
+869,🤷‍♀️,woman shrugging,People & Body,person-gesture,1F937 200D 2640 FE0F
+870,🤷‍♀,woman shrugging,People & Body,person-gesture,1F937 200D 2640
+871,🤷🏻‍♀️,woman shrugging: light skin tone,People & Body,person-gesture,1F937 1F3FB 200D 2640 FE0F
+872,🤷🏻‍♀,woman shrugging: light skin tone,People & Body,person-gesture,1F937 1F3FB 200D 2640
+873,🤷🏼‍♀️,woman shrugging: medium-light skin tone,People & Body,person-gesture,1F937 1F3FC 200D 2640 FE0F
+874,🤷🏼‍♀,woman shrugging: medium-light skin tone,People & Body,person-gesture,1F937 1F3FC 200D 2640
+875,🤷🏽‍♀️,woman shrugging: medium skin tone,People & Body,person-gesture,1F937 1F3FD 200D 2640 FE0F
+876,🤷🏽‍♀,woman shrugging: medium skin tone,People & Body,person-gesture,1F937 1F3FD 200D 2640
+877,🤷🏾‍♀️,woman shrugging: medium-dark skin tone,People & Body,person-gesture,1F937 1F3FE 200D 2640 FE0F
+878,🤷🏾‍♀,woman shrugging: medium-dark skin tone,People & Body,person-gesture,1F937 1F3FE 200D 2640
+879,🤷🏿‍♀️,woman shrugging: dark skin tone,People & Body,person-gesture,1F937 1F3FF 200D 2640 FE0F
+880,🤷🏿‍♀,woman shrugging: dark skin tone,People & Body,person-gesture,1F937 1F3FF 200D 2640
+1463,👰🏽‍♀,woman with veil: medium skin tone,People & Body,person-role,1F470 1F3FD 200D 2640
+1464,👰🏾‍♀️,woman with veil: medium-dark skin tone,People & Body,person-role,1F470 1F3FE 200D 2640 FE0F
+1465,👰🏾‍♀,woman with veil: medium-dark skin tone,People & Body,person-role,1F470 1F3FE 200D 2640
+1466,👰🏿‍♀️,woman with veil: dark skin tone,People & Body,person-role,1F470 1F3FF 200D 2640 FE0F
+1467,👰🏿‍♀,woman with veil: dark skin tone,People & Body,person-role,1F470 1F3FF 200D 2640
+1468,🤰,pregnant woman,People & Body,person-role,1F930
+1469,🤰🏻,pregnant woman: light skin tone,People & Body,person-role,1F930 1F3FB
+1470,🤰🏼,pregnant woman: medium-light skin tone,People & Body,person-role,1F930 1F3FC
+1471,🤰🏽,pregnant woman: medium skin tone,People & Body,person-role,1F930 1F3FD
+1472,🤰🏾,pregnant woman: medium-dark skin tone,People & Body,person-role,1F930 1F3FE
+1473,🤰🏿,pregnant woman: dark skin tone,People & Body,person-role,1F930 1F3FF
+1474,🤱,breast-feeding,People & Body,person-role,1F931
+1475,🤱🏻,breast-feeding: light skin tone,People & Body,person-role,1F931 1F3FB
+1476,🤱🏼,breast-feeding: medium-light skin tone,People & Body,person-role,1F931 1F3FC
+1477,🤱🏽,breast-feeding: medium skin tone,People & Body,person-role,1F931 1F3FD
+1478,🤱🏾,breast-feeding: medium-dark skin tone,People & Body,person-role,1F931 1F3FE
+1479,🤱🏿,breast-feeding: dark skin tone,People & Body,person-role,1F931 1F3FF
+1480,👩‍🍼,woman feeding baby,People & Body,person-role,1F469 200D 1F37C
+1481,👩🏻‍🍼,woman feeding baby: light skin tone,People & Body,person-role,1F469 1F3FB 200D 1F37C
+1482,👩🏼‍🍼,woman feeding baby: medium-light skin tone,People & Body,person-role,1F469 1F3FC 200D 1F37C
+1483,👩🏽‍🍼,woman feeding baby: medium skin tone,People & Body,person-role,1F469 1F3FD 200D 1F37C
+1484,👩🏾‍🍼,woman feeding baby: medium-dark skin tone,People & Body,person-role,1F469 1F3FE 200D 1F37C
+1485,👩🏿‍🍼,woman feeding baby: dark skin tone,People & Body,person-role,1F469 1F3FF 200D 1F37C
+1486,👨‍🍼,man feeding baby,People & Body,person-role,1F468 200D 1F37C
+1487,👨🏻‍🍼,man feeding baby: light skin tone,People & Body,person-role,1F468 1F3FB 200D 1F37C
+1488,👨🏼‍🍼,man feeding baby: medium-light skin tone,People & Body,person-role,1F468 1F3FC 200D 1F37C
+1489,👨🏽‍🍼,man feeding baby: medium skin tone,People & Body,person-role,1F468 1F3FD 200D 1F37C
+1490,👨🏾‍🍼,man feeding baby: medium-dark skin tone,People & Body,person-role,1F468 1F3FE 200D 1F37C
+1491,👨🏿‍🍼,man feeding baby: dark skin tone,People & Body,person-role,1F468 1F3FF 200D 1F37C
+1492,🧑‍🍼,person feeding baby,People & Body,person-role,1F9D1 200D 1F37C
+1493,🧑🏻‍🍼,person feeding baby: light skin tone,People & Body,person-role,1F9D1 1F3FB 200D 1F37C
+1494,🧑🏼‍🍼,person feeding baby: medium-light skin tone,People & Body,person-role,1F9D1 1F3FC 200D 1F37C
+1495,🧑🏽‍🍼,person feeding baby: medium skin tone,People & Body,person-role,1F9D1 1F3FD 200D 1F37C
+1496,🧑🏾‍🍼,person feeding baby: medium-dark skin tone,People & Body,person-role,1F9D1 1F3FE 200D 1F37C
+1497,🧑🏿‍🍼,person feeding baby: dark skin tone,People & Body,person-role,1F9D1 1F3FF 200D 1F37C
+1707,🧝🏿,elf: dark skin tone,People & Body,person-fantasy,1F9DD 1F3FF
+1708,🧝‍♂️,man elf,People & Body,person-fantasy,1F9DD 200D 2642 FE0F
+1709,🧝‍♂,man elf,People & Body,person-fantasy,1F9DD 200D 2642
+1710,🧝🏻‍♂️,man elf: light skin tone,People & Body,person-fantasy,1F9DD 1F3FB 200D 2642 FE0F
+1711,🧝🏻‍♂,man elf: light skin tone,People & Body,person-fantasy,1F9DD 1F3FB 200D 2642
+1712,🧝🏼‍♂️,man elf: medium-light skin tone,People & Body,person-fantasy,1F9DD 1F3FC 200D 2642 FE0F
+1713,🧝🏼‍♂,man elf: medium-light skin tone,People & Body,person-fantasy,1F9DD 1F3FC 200D 2642
+1714,🧝🏽‍♂️,man elf: medium skin tone,People & Body,person-fantasy,1F9DD 1F3FD 200D 2642 FE0F
+1715,🧝🏽‍♂,man elf: medium skin tone,People & Body,person-fantasy,1F9DD 1F3FD 200D 2642
+1716,🧝🏾‍♂️,man elf: medium-dark skin tone,People & Body,person-fantasy,1F9DD 1F3FE 200D 2642 FE0F
+1717,🧝🏾‍♂,man elf: medium-dark skin tone,People & Body,person-fantasy,1F9DD 1F3FE 200D 2642
+1718,🧝🏿‍♂️,man elf: dark skin tone,People & Body,person-fantasy,1F9DD 1F3FF 200D 2642 FE0F
+1719,🧝🏿‍♂,man elf: dark skin tone,People & Body,person-fantasy,1F9DD 1F3FF 200D 2642
+1720,🧝‍♀️,woman elf,People & Body,person-fantasy,1F9DD 200D 2640 FE0F
+1721,🧝‍♀,woman elf,People & Body,person-fantasy,1F9DD 200D 2640
+1722,🧝🏻‍♀️,woman elf: light skin tone,People & Body,person-fantasy,1F9DD 1F3FB 200D 2640 FE0F
+1723,🧝🏻‍♀,woman elf: light skin tone,People & Body,person-fantasy,1F9DD 1F3FB 200D 2640
+1724,🧝🏼‍♀️,woman elf: medium-light skin tone,People & Body,person-fantasy,1F9DD 1F3FC 200D 2640 FE0F
+1725,🧝🏼‍♀,woman elf: medium-light skin tone,People & Body,person-fantasy,1F9DD 1F3FC 200D 2640
+1726,🧝🏽‍♀️,woman elf: medium skin tone,People & Body,person-fantasy,1F9DD 1F3FD 200D 2640 FE0F
+1727,🧝🏽‍♀,woman elf: medium skin tone,People & Body,person-fantasy,1F9DD 1F3FD 200D 2640
+1728,🧝🏾‍♀️,woman elf: medium-dark skin tone,People & Body,person-fantasy,1F9DD 1F3FE 200D 2640 FE0F
+1729,🧝🏾‍♀,woman elf: medium-dark skin tone,People & Body,person-fantasy,1F9DD 1F3FE 200D 2640
+1730,🧝🏿‍♀️,woman elf: dark skin tone,People & Body,person-fantasy,1F9DD 1F3FF 200D 2640 FE0F
+1731,🧝🏿‍♀,woman elf: dark skin tone,People & Body,person-fantasy,1F9DD 1F3FF 200D 2640
+1732,🧞,genie,People & Body,person-fantasy,1F9DE
+1733,🧞‍♂️,man genie,People & Body,person-fantasy,1F9DE 200D 2642 FE0F
+1734,🧞‍♂,man genie,People & Body,person-fantasy,1F9DE 200D 2642
+1735,🧞‍♀️,woman genie,People & Body,person-fantasy,1F9DE 200D 2640 FE0F
+1736,🧞‍♀,woman genie,People & Body,person-fantasy,1F9DE 200D 2640
+1737,🧟,zombie,People & Body,person-fantasy,1F9DF
+1738,🧟‍♂️,man zombie,People & Body,person-fantasy,1F9DF 200D 2642 FE0F
+1739,🧟‍♂,man zombie,People & Body,person-fantasy,1F9DF 200D 2642
+1740,🧟‍♀️,woman zombie,People & Body,person-fantasy,1F9DF 200D 2640 FE0F
+1741,🧟‍♀,woman zombie,People & Body,person-fantasy,1F9DF 200D 2640
+2025,🧖🏽‍♀,woman in steamy room: medium skin tone,People & Body,person-activity,1F9D6 1F3FD 200D 2640
+2026,🧖🏾‍♀️,woman in steamy room: medium-dark skin tone,People & Body,person-activity,1F9D6 1F3FE 200D 2640 FE0F
+2027,🧖🏾‍♀,woman in steamy room: medium-dark skin tone,People & Body,person-activity,1F9D6 1F3FE 200D 2640
+2028,🧖🏿‍♀️,woman in steamy room: dark skin tone,People & Body,person-activity,1F9D6 1F3FF 200D 2640 FE0F
+2029,🧖🏿‍♀,woman in steamy room: dark skin tone,People & Body,person-activity,1F9D6 1F3FF 200D 2640
+2030,🧗,person climbing,People & Body,person-activity,1F9D7
+2031,🧗🏻,person climbing: light skin tone,People & Body,person-activity,1F9D7 1F3FB
+2032,🧗🏼,person climbing: medium-light skin tone,People & Body,person-activity,1F9D7 1F3FC
+2033,🧗🏽,person climbing: medium skin tone,People & Body,person-activity,1F9D7 1F3FD
+2034,🧗🏾,person climbing: medium-dark skin tone,People & Body,person-activity,1F9D7 1F3FE
+2035,🧗🏿,person climbing: dark skin tone,People & Body,person-activity,1F9D7 1F3FF
+2036,🧗‍♂️,man climbing,People & Body,person-activity,1F9D7 200D 2642 FE0F
+2037,🧗‍♂,man climbing,People & Body,person-activity,1F9D7 200D 2642
+2038,🧗🏻‍♂️,man climbing: light skin tone,People & Body,person-activity,1F9D7 1F3FB 200D 2642 FE0F
+2039,🧗🏻‍♂,man climbing: light skin tone,People & Body,person-activity,1F9D7 1F3FB 200D 2642
+2040,🧗🏼‍♂️,man climbing: medium-light skin tone,People & Body,person-activity,1F9D7 1F3FC 200D 2642 FE0F
+2041,🧗🏼‍♂,man climbing: medium-light skin tone,People & Body,person-activity,1F9D7 1F3FC 200D 2642
+2042,🧗🏽‍♂️,man climbing: medium skin tone,People & Body,person-activity,1F9D7 1F3FD 200D 2642 FE0F
+2043,🧗🏽‍♂,man climbing: medium skin tone,People & Body,person-activity,1F9D7 1F3FD 200D 2642
+2044,🧗🏾‍♂️,man climbing: medium-dark skin tone,People & Body,person-activity,1F9D7 1F3FE 200D 2642 FE0F
+2045,🧗🏾‍♂,man climbing: medium-dark skin tone,People & Body,person-activity,1F9D7 1F3FE 200D 2642
+2046,🧗🏿‍♂️,man climbing: dark skin tone,People & Body,person-activity,1F9D7 1F3FF 200D 2642 FE0F
+2047,🧗🏿‍♂,man climbing: dark skin tone,People & Body,person-activity,1F9D7 1F3FF 200D 2642
+2048,🧗‍♀️,woman climbing,People & Body,person-activity,1F9D7 200D 2640 FE0F
+2049,🧗‍♀,woman climbing,People & Body,person-activity,1F9D7 200D 2640
+2050,🧗🏻‍♀️,woman climbing: light skin tone,People & Body,person-activity,1F9D7 1F3FB 200D 2640 FE0F
+2051,🧗🏻‍♀,woman climbing: light skin tone,People & Body,person-activity,1F9D7 1F3FB 200D 2640
+2052,🧗🏼‍♀️,woman climbing: medium-light skin tone,People & Body,person-activity,1F9D7 1F3FC 200D 2640 FE0F
+2053,🧗🏼‍♀,woman climbing: medium-light skin tone,People & Body,person-activity,1F9D7 1F3FC 200D 2640
+2054,🧗🏽‍♀️,woman climbing: medium skin tone,People & Body,person-activity,1F9D7 1F3FD 200D 2640 FE0F
+2055,🧗🏽‍♀,woman climbing: medium skin tone,People & Body,person-activity,1F9D7 1F3FD 200D 2640
+2056,🧗🏾‍♀️,woman climbing: medium-dark skin tone,People & Body,person-activity,1F9D7 1F3FE 200D 2640 FE0F
+2057,🧗🏾‍♀,woman climbing: medium-dark skin tone,People & Body,person-activity,1F9D7 1F3FE 200D 2640
+2058,🧗🏿‍♀️,woman climbing: dark skin tone,People & Body,person-activity,1F9D7 1F3FF 200D 2640 FE0F
+2059,🧗🏿‍♀,woman climbing: dark skin tone,People & Body,person-activity,1F9D7 1F3FF 200D 2640
+2420,🤾🏽‍♀,woman playing handball: medium skin tone,People & Body,person-sport,1F93E 1F3FD 200D 2640
+2421,🤾🏾‍♀️,woman playing handball: medium-dark skin tone,People & Body,person-sport,1F93E 1F3FE 200D 2640 FE0F
+2422,🤾🏾‍♀,woman playing handball: medium-dark skin tone,People & Body,person-sport,1F93E 1F3FE 200D 2640
+2423,🤾🏿‍♀️,woman playing handball: dark skin tone,People & Body,person-sport,1F93E 1F3FF 200D 2640 FE0F
+2424,🤾🏿‍♀,woman playing handball: dark skin tone,People & Body,person-sport,1F93E 1F3FF 200D 2640
+2425,🤹,person juggling,People & Body,person-sport,1F939
+2426,🤹🏻,person juggling: light skin tone,People & Body,person-sport,1F939 1F3FB
+2427,🤹🏼,person juggling: medium-light skin tone,People & Body,person-sport,1F939 1F3FC
+2428,🤹🏽,person juggling: medium skin tone,People & Body,person-sport,1F939 1F3FD
+2429,🤹🏾,person juggling: medium-dark skin tone,People & Body,person-sport,1F939 1F3FE
+2430,🤹🏿,person juggling: dark skin tone,People & Body,person-sport,1F939 1F3FF
+2431,🤹‍♂️,man juggling,People & Body,person-sport,1F939 200D 2642 FE0F
+2432,🤹‍♂,man juggling,People & Body,person-sport,1F939 200D 2642
+2433,🤹🏻‍♂️,man juggling: light skin tone,People & Body,person-sport,1F939 1F3FB 200D 2642 FE0F
+2434,🤹🏻‍♂,man juggling: light skin tone,People & Body,person-sport,1F939 1F3FB 200D 2642
+2435,🤹🏼‍♂️,man juggling: medium-light skin tone,People & Body,person-sport,1F939 1F3FC 200D 2642 FE0F
+2436,🤹🏼‍♂,man juggling: medium-light skin tone,People & Body,person-sport,1F939 1F3FC 200D 2642
+2437,🤹🏽‍♂️,man juggling: medium skin tone,People & Body,person-sport,1F939 1F3FD 200D 2642 FE0F
+2438,🤹🏽‍♂,man juggling: medium skin tone,People & Body,person-sport,1F939 1F3FD 200D 2642
+2439,🤹🏾‍♂️,man juggling: medium-dark skin tone,People & Body,person-sport,1F939 1F3FE 200D 2642 FE0F
+2440,🤹🏾‍♂,man juggling: medium-dark skin tone,People & Body,person-sport,1F939 1F3FE 200D 2642
+2441,🤹🏿‍♂️,man juggling: dark skin tone,People & Body,person-sport,1F939 1F3FF 200D 2642 FE0F
+2442,🤹🏿‍♂,man juggling: dark skin tone,People & Body,person-sport,1F939 1F3FF 200D 2642
+2443,🤹‍♀️,woman juggling,People & Body,person-sport,1F939 200D 2640 FE0F
+2444,🤹‍♀,woman juggling,People & Body,person-sport,1F939 200D 2640
+2445,🤹🏻‍♀️,woman juggling: light skin tone,People & Body,person-sport,1F939 1F3FB 200D 2640 FE0F
+2446,🤹🏻‍♀,woman juggling: light skin tone,People & Body,person-sport,1F939 1F3FB 200D 2640
+2447,🤹🏼‍♀️,woman juggling: medium-light skin tone,People & Body,person-sport,1F939 1F3FC 200D 2640 FE0F
+2448,🤹🏼‍♀,woman juggling: medium-light skin tone,People & Body,person-sport,1F939 1F3FC 200D 2640
+2449,🤹🏽‍♀️,woman juggling: medium skin tone,People & Body,person-sport,1F939 1F3FD 200D 2640 FE0F
+2450,🤹🏽‍♀,woman juggling: medium skin tone,People & Body,person-sport,1F939 1F3FD 200D 2640
+2451,🤹🏾‍♀️,woman juggling: medium-dark skin tone,People & Body,person-sport,1F939 1F3FE 200D 2640 FE0F
+2452,🤹🏾‍♀,woman juggling: medium-dark skin tone,People & Body,person-sport,1F939 1F3FE 200D 2640
+2453,🤹🏿‍♀️,woman juggling: dark skin tone,People & Body,person-sport,1F939 1F3FF 200D 2640 FE0F
+2454,🤹🏿‍♀,woman juggling: dark skin tone,People & Body,person-sport,1F939 1F3FF 200D 2640
+2462,🧘‍♂,man in lotus position,People & Body,person-resting,1F9D8 200D 2642
+2463,🧘🏻‍♂️,man in lotus position: light skin tone,People & Body,person-resting,1F9D8 1F3FB 200D 2642 FE0F
+2464,🧘🏻‍♂,man in lotus position: light skin tone,People & Body,person-resting,1F9D8 1F3FB 200D 2642
+2465,🧘🏼‍♂️,man in lotus position: medium-light skin tone,People & Body,person-resting,1F9D8 1F3FC 200D 2642 FE0F
+2466,🧘🏼‍♂,man in lotus position: medium-light skin tone,People & Body,person-resting,1F9D8 1F3FC 200D 2642
+2467,🧘🏽‍♂️,man in lotus position: medium skin tone,People & Body,person-resting,1F9D8 1F3FD 200D 2642 FE0F
+2468,🧘🏽‍♂,man in lotus position: medium skin tone,People & Body,person-resting,1F9D8 1F3FD 200D 2642
+2469,🧘🏾‍♂️,man in lotus position: medium-dark skin tone,People & Body,person-resting,1F9D8 1F3FE 200D 2642 FE0F
+2470,🧘🏾‍♂,man in lotus position: medium-dark skin tone,People & Body,person-resting,1F9D8 1F3FE 200D 2642
+2471,🧘🏿‍♂️,man in lotus position: dark skin tone,People & Body,person-resting,1F9D8 1F3FF 200D 2642 FE0F
+2472,🧘🏿‍♂,man in lotus position: dark skin tone,People & Body,person-resting,1F9D8 1F3FF 200D 2642
+2473,🧘‍♀️,woman in lotus position,People & Body,person-resting,1F9D8 200D 2640 FE0F
+2474,🧘‍♀,woman in lotus position,People & Body,person-resting,1F9D8 200D 2640
+2475,🧘🏻‍♀️,woman in lotus position: light skin tone,People & Body,person-resting,1F9D8 1F3FB 200D 2640 FE0F
+2476,🧘🏻‍♀,woman in lotus position: light skin tone,People & Body,person-resting,1F9D8 1F3FB 200D 2640
+2477,🧘🏼‍♀️,woman in lotus position: medium-light skin tone,People & Body,person-resting,1F9D8 1F3FC 200D 2640 FE0F
+2478,🧘🏼‍♀,woman in lotus position: medium-light skin tone,People & Body,person-resting,1F9D8 1F3FC 200D 2640
+2479,🧘🏽‍♀️,woman in lotus position: medium skin tone,People & Body,person-resting,1F9D8 1F3FD 200D 2640 FE0F
+2480,🧘🏽‍♀,woman in lotus position: medium skin tone,People & Body,person-resting,1F9D8 1F3FD 200D 2640
+2481,🧘🏾‍♀️,woman in lotus position: medium-dark skin tone,People & Body,person-resting,1F9D8 1F3FE 200D 2640 FE0F
+2482,🧘🏾‍♀,woman in lotus position: medium-dark skin tone,People & Body,person-resting,1F9D8 1F3FE 200D 2640
+2483,🧘🏿‍♀️,woman in lotus position: dark skin tone,People & Body,person-resting,1F9D8 1F3FF 200D 2640 FE0F
+2484,🧘🏿‍♀,woman in lotus position: dark skin tone,People & Body,person-resting,1F9D8 1F3FF 200D 2640
+2485,🛀,person taking bath,People & Body,person-resting,1F6C0
+2486,🛀🏻,person taking bath: light skin tone,People & Body,person-resting,1F6C0 1F3FB
+2487,🛀🏼,person taking bath: medium-light skin tone,People & Body,person-resting,1F6C0 1F3FC
+2488,🛀🏽,person taking bath: medium skin tone,People & Body,person-resting,1F6C0 1F3FD
+2489,🛀🏾,person taking bath: medium-dark skin tone,People & Body,person-resting,1F6C0 1F3FE
+2490,🛀🏿,person taking bath: dark skin tone,People & Body,person-resting,1F6C0 1F3FF
+2491,🛌,person in bed,People & Body,person-resting,1F6CC
+2492,🛌🏻,person in bed: light skin tone,People & Body,person-resting,1F6CC 1F3FB
+2493,🛌🏼,person in bed: medium-light skin tone,People & Body,person-resting,1F6CC 1F3FC
+2494,🛌🏽,person in bed: medium skin tone,People & Body,person-resting,1F6CC 1F3FD
+2495,🛌🏾,person in bed: medium-dark skin tone,People & Body,person-resting,1F6CC 1F3FE
+2496,🛌🏿,person in bed: dark skin tone,People & Body,person-resting,1F6CC 1F3FF
+2606,👩‍❤️‍💋‍👩,"kiss: woman, woman",People & Body,family,1F469 200D 2764 FE0F 200D 1F48B 200D 1F469
+2607,👩‍❤‍💋‍👩,"kiss: woman, woman",People & Body,family,1F469 200D 2764 200D 1F48B 200D 1F469
+2608,💑,couple with heart,People & Body,family,1F491
+2609,👩‍❤️‍👨,"couple with heart: woman, man",People & Body,family,1F469 200D 2764 FE0F 200D 1F468
+2610,👩‍❤‍👨,"couple with heart: woman, man",People & Body,family,1F469 200D 2764 200D 1F468
+2611,👨‍❤️‍👨,"couple with heart: man, man",People & Body,family,1F468 200D 2764 FE0F 200D 1F468
+2612,👨‍❤‍👨,"couple with heart: man, man",People & Body,family,1F468 200D 2764 200D 1F468
+2613,👩‍❤️‍👩,"couple with heart: woman, woman",People & Body,family,1F469 200D 2764 FE0F 200D 1F469
+2614,👩‍❤‍👩,"couple with heart: woman, woman",People & Body,family,1F469 200D 2764 200D 1F469
+2615,👪,family,People & Body,family,1F46A
+2616,👨‍👩‍👦,"family: man, woman, boy",People & Body,family,1F468 200D 1F469 200D 1F466
+2617,👨‍👩‍👧,"family: man, woman, girl",People & Body,family,1F468 200D 1F469 200D 1F467
+2618,👨‍👩‍👧‍👦,"family: man, woman, girl, boy",People & Body,family,1F468 200D 1F469 200D 1F467 200D 1F466
+2619,👨‍👩‍👦‍👦,"family: man, woman, boy, boy",People & Body,family,1F468 200D 1F469 200D 1F466 200D 1F466
+2620,👨‍👩‍👧‍👧,"family: man, woman, girl, girl",People & Body,family,1F468 200D 1F469 200D 1F467 200D 1F467
+2621,👨‍👨‍👦,"family: man, man, boy",People & Body,family,1F468 200D 1F468 200D 1F466
+2622,👨‍👨‍👧,"family: man, man, girl",People & Body,family,1F468 200D 1F468 200D 1F467
+2623,👨‍👨‍👧‍👦,"family: man, man, girl, boy",People & Body,family,1F468 200D 1F468 200D 1F467 200D 1F466
+2624,👨‍👨‍👦‍👦,"family: man, man, boy, boy",People & Body,family,1F468 200D 1F468 200D 1F466 200D 1F466
+2625,👨‍👨‍👧‍👧,"family: man, man, girl, girl",People & Body,family,1F468 200D 1F468 200D 1F467 200D 1F467
+2626,👩‍👩‍👦,"family: woman, woman, boy",People & Body,family,1F469 200D 1F469 200D 1F466
+2627,👩‍👩‍👧,"family: woman, woman, girl",People & Body,family,1F469 200D 1F469 200D 1F467
+2628,👩‍👩‍👧‍👦,"family: woman, woman, girl, boy",People & Body,family,1F469 200D 1F469 200D 1F467 200D 1F466
+2629,👩‍👩‍👦‍👦,"family: woman, woman, boy, boy",People & Body,family,1F469 200D 1F469 200D 1F466 200D 1F466
+2630,👩‍👩‍👧‍👧,"family: woman, woman, girl, girl",People & Body,family,1F469 200D 1F469 200D 1F467 200D 1F467
+2631,👨‍👦,"family: man, boy",People & Body,family,1F468 200D 1F466
+2632,👨‍👦‍👦,"family: man, boy, boy",People & Body,family,1F468 200D 1F466 200D 1F466
+2633,👨‍👧,"family: man, girl",People & Body,family,1F468 200D 1F467
+2634,👨‍👧‍👦,"family: man, girl, boy",People & Body,family,1F468 200D 1F467 200D 1F466
+2635,👨‍👧‍👧,"family: man, girl, girl",People & Body,family,1F468 200D 1F467 200D 1F467
+2636,👩‍👦,"family: woman, boy",People & Body,family,1F469 200D 1F466
+2637,👩‍👦‍👦,"family: woman, boy, boy",People & Body,family,1F469 200D 1F466 200D 1F466
+2638,👩‍👧,"family: woman, girl",People & Body,family,1F469 200D 1F467
+2639,👩‍👧‍👦,"family: woman, girl, boy",People & Body,family,1F469 200D 1F467 200D 1F466
+2640,👩‍👧‍👧,"family: woman, girl, girl",People & Body,family,1F469 200D 1F467 200D 1F467
+2678,🐗,boar,Animals & Nature,animal-mammal,1F417
+2679,🐽,pig nose,Animals & Nature,animal-mammal,1F43D
+2680,🐏,ram,Animals & Nature,animal-mammal,1F40F
+2681,🐑,ewe,Animals & Nature,animal-mammal,1F411
+2682,🐐,goat,Animals & Nature,animal-mammal,1F410
+2683,🐪,camel,Animals & Nature,animal-mammal,1F42A
+2684,🐫,two-hump camel,Animals & Nature,animal-mammal,1F42B
+2685,🦙,llama,Animals & Nature,animal-mammal,1F999
+2686,🦒,giraffe,Animals & Nature,animal-mammal,1F992
+2687,🐘,elephant,Animals & Nature,animal-mammal,1F418
+2688,🦣,mammoth,Animals & Nature,animal-mammal,1F9A3
+2689,🦏,rhinoceros,Animals & Nature,animal-mammal,1F98F
+2690,🦛,hippopotamus,Animals & Nature,animal-mammal,1F99B
+2691,🐭,mouse face,Animals & Nature,animal-mammal,1F42D
+2692,🐁,mouse,Animals & Nature,animal-mammal,1F401
+2693,🐀,rat,Animals & Nature,animal-mammal,1F400
+2694,🐹,hamster,Animals & Nature,animal-mammal,1F439
+2695,🐰,rabbit face,Animals & Nature,animal-mammal,1F430
+2696,🐇,rabbit,Animals & Nature,animal-mammal,1F407
+2697,🐿️,chipmunk,Animals & Nature,animal-mammal,1F43F FE0F
+2698,🐿,chipmunk,Animals & Nature,animal-mammal,1F43F
+2699,🦫,beaver,Animals & Nature,animal-mammal,1F9AB
+2700,🦔,hedgehog,Animals & Nature,animal-mammal,1F994
+2701,🦇,bat,Animals & Nature,animal-mammal,1F987
+2702,🐻,bear,Animals & Nature,animal-mammal,1F43B
+2703,🐻‍❄️,polar bear,Animals & Nature,animal-mammal,1F43B 200D 2744 FE0F
+2704,🐻‍❄,polar bear,Animals & Nature,animal-mammal,1F43B 200D 2744
+2705,🐨,koala,Animals & Nature,animal-mammal,1F428
+2706,🐼,panda,Animals & Nature,animal-mammal,1F43C
+2707,🦥,sloth,Animals & Nature,animal-mammal,1F9A5
+2708,🦦,otter,Animals & Nature,animal-mammal,1F9A6
+2709,🦨,skunk,Animals & Nature,animal-mammal,1F9A8
+2710,🦘,kangaroo,Animals & Nature,animal-mammal,1F998
+2711,🦡,badger,Animals & Nature,animal-mammal,1F9A1
+2712,🐾,paw prints,Animals & Nature,animal-mammal,1F43E
+3025,🚔,oncoming police car,Travel & Places,transport-ground,1F694
+3026,🚕,taxi,Travel & Places,transport-ground,1F695
+3027,🚖,oncoming taxi,Travel & Places,transport-ground,1F696
+3028,🚗,automobile,Travel & Places,transport-ground,1F697
+3029,🚘,oncoming automobile,Travel & Places,transport-ground,1F698
+3030,🚙,sport utility vehicle,Travel & Places,transport-ground,1F699
+3031,🛻,pickup truck,Travel & Places,transport-ground,1F6FB
+3032,🚚,delivery truck,Travel & Places,transport-ground,1F69A
+3033,🚛,articulated lorry,Travel & Places,transport-ground,1F69B
+3034,🚜,tractor,Travel & Places,transport-ground,1F69C
+3035,🏎️,racing car,Travel & Places,transport-ground,1F3CE FE0F
+3036,🏎,racing car,Travel & Places,transport-ground,1F3CE
+3037,🏍️,motorcycle,Travel & Places,transport-ground,1F3CD FE0F
+3038,🏍,motorcycle,Travel & Places,transport-ground,1F3CD
+3039,🛵,motor scooter,Travel & Places,transport-ground,1F6F5
+3040,🦽,manual wheelchair,Travel & Places,transport-ground,1F9BD
+3041,🦼,motorized wheelchair,Travel & Places,transport-ground,1F9BC
+3042,🛺,auto rickshaw,Travel & Places,transport-ground,1F6FA
+3043,🚲,bicycle,Travel & Places,transport-ground,1F6B2
+3044,🛴,kick scooter,Travel & Places,transport-ground,1F6F4
+3045,🛹,skateboard,Travel & Places,transport-ground,1F6F9
+3046,🛼,roller skate,Travel & Places,transport-ground,1F6FC
+3047,🚏,bus stop,Travel & Places,transport-ground,1F68F
+3048,🛣️,motorway,Travel & Places,transport-ground,1F6E3 FE0F
+3049,🛣,motorway,Travel & Places,transport-ground,1F6E3
+3050,🛤️,railway track,Travel & Places,transport-ground,1F6E4 FE0F
+3051,🛤,railway track,Travel & Places,transport-ground,1F6E4
+3052,🛢️,oil drum,Travel & Places,transport-ground,1F6E2 FE0F
+3053,🛢,oil drum,Travel & Places,transport-ground,1F6E2
+3054,⛽,fuel pump,Travel & Places,transport-ground,26FD
+3055,🚨,police car light,Travel & Places,transport-ground,1F6A8
+3056,🚥,horizontal traffic light,Travel & Places,transport-ground,1F6A5
+3057,🚦,vertical traffic light,Travel & Places,transport-ground,1F6A6
+3058,🛑,stop sign,Travel & Places,transport-ground,1F6D1
+3059,🚧,construction,Travel & Places,transport-ground,1F6A7
+3154,🌥️,sun behind large cloud,Travel & Places,sky & weather,1F325 FE0F
+3155,🌥,sun behind large cloud,Travel & Places,sky & weather,1F325
+3156,🌦️,sun behind rain cloud,Travel & Places,sky & weather,1F326 FE0F
+3157,🌦,sun behind rain cloud,Travel & Places,sky & weather,1F326
+3158,🌧️,cloud with rain,Travel & Places,sky & weather,1F327 FE0F
+3159,🌧,cloud with rain,Travel & Places,sky & weather,1F327
+3160,🌨️,cloud with snow,Travel & Places,sky & weather,1F328 FE0F
+3161,🌨,cloud with snow,Travel & Places,sky & weather,1F328
+3162,🌩️,cloud with lightning,Travel & Places,sky & weather,1F329 FE0F
+3163,🌩,cloud with lightning,Travel & Places,sky & weather,1F329
+3164,🌪️,tornado,Travel & Places,sky & weather,1F32A FE0F
+3165,🌪,tornado,Travel & Places,sky & weather,1F32A
+3166,🌫️,fog,Travel & Places,sky & weather,1F32B FE0F
+3167,🌫,fog,Travel & Places,sky & weather,1F32B
+3168,🌬️,wind face,Travel & Places,sky & weather,1F32C FE0F
+3169,🌬,wind face,Travel & Places,sky & weather,1F32C
+3170,🌀,cyclone,Travel & Places,sky & weather,1F300
+3171,🌈,rainbow,Travel & Places,sky & weather,1F308
+3172,🌂,closed umbrella,Travel & Places,sky & weather,1F302
+3173,☂️,umbrella,Travel & Places,sky & weather,2602 FE0F
+3174,☂,umbrella,Travel & Places,sky & weather,2602
+3175,☔,umbrella with rain drops,Travel & Places,sky & weather,2614
+3176,⛱️,umbrella on ground,Travel & Places,sky & weather,26F1 FE0F
+3177,⛱,umbrella on ground,Travel & Places,sky & weather,26F1
+3178,⚡,high voltage,Travel & Places,sky & weather,26A1
+3179,❄️,snowflake,Travel & Places,sky & weather,2744 FE0F
+3180,❄,snowflake,Travel & Places,sky & weather,2744
+3181,☃️,snowman,Travel & Places,sky & weather,2603 FE0F
+3182,☃,snowman,Travel & Places,sky & weather,2603
+3183,⛄,snowman without snow,Travel & Places,sky & weather,26C4
+3184,☄️,comet,Travel & Places,sky & weather,2604 FE0F
+3185,☄,comet,Travel & Places,sky & weather,2604
+3186,🔥,fire,Travel & Places,sky & weather,1F525
+3187,💧,droplet,Travel & Places,sky & weather,1F4A7
+3188,🌊,water wave,Travel & Places,sky & weather,1F30A
+3297,👗,dress,Objects,clothing,1F457
+3298,👘,kimono,Objects,clothing,1F458
+3299,🥻,sari,Objects,clothing,1F97B
+3300,🩱,one-piece swimsuit,Objects,clothing,1FA71
+3301,🩲,briefs,Objects,clothing,1FA72
+3302,🩳,shorts,Objects,clothing,1FA73
+3303,👙,bikini,Objects,clothing,1F459
+3304,👚,woman’s clothes,Objects,clothing,1F45A
+3305,👛,purse,Objects,clothing,1F45B
+3306,👜,handbag,Objects,clothing,1F45C
+3307,👝,clutch bag,Objects,clothing,1F45D
+3308,🛍️,shopping bags,Objects,clothing,1F6CD FE0F
+3309,🛍,shopping bags,Objects,clothing,1F6CD
+3310,🎒,backpack,Objects,clothing,1F392
+3311,🩴,thong sandal,Objects,clothing,1FA74
+3312,👞,man’s shoe,Objects,clothing,1F45E
+3313,👟,running shoe,Objects,clothing,1F45F
+3314,🥾,hiking boot,Objects,clothing,1F97E
+3315,🥿,flat shoe,Objects,clothing,1F97F
+3316,👠,high-heeled shoe,Objects,clothing,1F460
+3317,👡,woman’s sandal,Objects,clothing,1F461
+3318,🩰,ballet shoes,Objects,clothing,1FA70
+3319,👢,woman’s boot,Objects,clothing,1F462
+3320,👑,crown,Objects,clothing,1F451
+3321,👒,woman’s hat,Objects,clothing,1F452
+3322,🎩,top hat,Objects,clothing,1F3A9
+3323,🎓,graduation cap,Objects,clothing,1F393
+3324,🧢,billed cap,Objects,clothing,1F9E2
+3325,🪖,military helmet,Objects,clothing,1FA96
+3326,⛑️,rescue worker’s helmet,Objects,clothing,26D1 FE0F
+3327,⛑,rescue worker’s helmet,Objects,clothing,26D1
+3328,📿,prayer beads,Objects,clothing,1F4FF
+3329,💄,lipstick,Objects,clothing,1F484
+3330,💍,ring,Objects,clothing,1F48D
+3331,💎,gem stone,Objects,clothing,1F48E
+3501,🔨,hammer,Objects,tool,1F528
+3502,🪓,axe,Objects,tool,1FA93
+3503,⛏️,pick,Objects,tool,26CF FE0F
+3504,⛏,pick,Objects,tool,26CF
+3505,⚒️,hammer and pick,Objects,tool,2692 FE0F
+3506,⚒,hammer and pick,Objects,tool,2692
+3507,🛠️,hammer and wrench,Objects,tool,1F6E0 FE0F
+3508,🛠,hammer and wrench,Objects,tool,1F6E0
+3509,🗡️,dagger,Objects,tool,1F5E1 FE0F
+3510,🗡,dagger,Objects,tool,1F5E1
+3511,⚔️,crossed swords,Objects,tool,2694 FE0F
+3512,⚔,crossed swords,Objects,tool,2694
+3513,🔫,pistol,Objects,tool,1F52B
+3514,🪃,boomerang,Objects,tool,1FA83
+3515,🏹,bow and arrow,Objects,tool,1F3F9
+3516,🛡️,shield,Objects,tool,1F6E1 FE0F
+3517,🛡,shield,Objects,tool,1F6E1
+3518,🪚,carpentry saw,Objects,tool,1FA9A
+3519,🔧,wrench,Objects,tool,1F527
+3520,🪛,screwdriver,Objects,tool,1FA9B
+3521,🔩,nut and bolt,Objects,tool,1F529
+3522,⚙️,gear,Objects,tool,2699 FE0F
+3523,⚙,gear,Objects,tool,2699
+3524,🗜️,clamp,Objects,tool,1F5DC FE0F
+3525,🗜,clamp,Objects,tool,1F5DC
+3526,⚖️,balance scale,Objects,tool,2696 FE0F
+3527,⚖,balance scale,Objects,tool,2696
+3528,🦯,white cane,Objects,tool,1F9AF
+3529,🔗,link,Objects,tool,1F517
+3530,⛓️,chains,Objects,tool,26D3 FE0F
+3531,⛓,chains,Objects,tool,26D3
+3532,🪝,hook,Objects,tool,1FA9D
+3533,🧰,toolbox,Objects,tool,1F9F0
+3534,🧲,magnet,Objects,tool,1F9F2
+3535,🪜,ladder,Objects,tool,1FA9C
+3612,⬆️,up arrow,Symbols,arrow,2B06 FE0F
+3613,⬆,up arrow,Symbols,arrow,2B06
+3614,↗️,up-right arrow,Symbols,arrow,2197 FE0F
+3615,↗,up-right arrow,Symbols,arrow,2197
+3616,➡️,right arrow,Symbols,arrow,27A1 FE0F
+3617,➡,right arrow,Symbols,arrow,27A1
+3618,↘️,down-right arrow,Symbols,arrow,2198 FE0F
+3619,↘,down-right arrow,Symbols,arrow,2198
+3620,⬇️,down arrow,Symbols,arrow,2B07 FE0F
+3621,⬇,down arrow,Symbols,arrow,2B07
+3622,↙️,down-left arrow,Symbols,arrow,2199 FE0F
+3623,↙,down-left arrow,Symbols,arrow,2199
+3624,⬅️,left arrow,Symbols,arrow,2B05 FE0F
+3625,⬅,left arrow,Symbols,arrow,2B05
+3626,↖️,up-left arrow,Symbols,arrow,2196 FE0F
+3627,↖,up-left arrow,Symbols,arrow,2196
+3628,↕️,up-down arrow,Symbols,arrow,2195 FE0F
+3629,↕,up-down arrow,Symbols,arrow,2195
+3630,↔️,left-right arrow,Symbols,arrow,2194 FE0F
+3631,↔,left-right arrow,Symbols,arrow,2194
+3632,↩️,right arrow curving left,Symbols,arrow,21A9 FE0F
+3633,↩,right arrow curving left,Symbols,arrow,21A9
+3634,↪️,left arrow curving right,Symbols,arrow,21AA FE0F
+3635,↪,left arrow curving right,Symbols,arrow,21AA
+3636,⤴️,right arrow curving up,Symbols,arrow,2934 FE0F
+3637,⤴,right arrow curving up,Symbols,arrow,2934
+3638,⤵️,right arrow curving down,Symbols,arrow,2935 FE0F
+3639,⤵,right arrow curving down,Symbols,arrow,2935
+3640,🔃,clockwise vertical arrows,Symbols,arrow,1F503
+3641,🔄,counterclockwise arrows button,Symbols,arrow,1F504
+3642,🔙,BACK arrow,Symbols,arrow,1F519
+3643,🔚,END arrow,Symbols,arrow,1F51A
+3644,🔛,ON! arrow,Symbols,arrow,1F51B
+3645,🔜,SOON arrow,Symbols,arrow,1F51C
+3646,🔝,TOP arrow,Symbols,arrow,1F51D
+3811,ℹ,information,Symbols,alphanum,2139
+3812,🆔,ID button,Symbols,alphanum,1F194
+3813,Ⓜ️,circled M,Symbols,alphanum,24C2 FE0F
+3814,Ⓜ,circled M,Symbols,alphanum,24C2
+3815,🆕,NEW button,Symbols,alphanum,1F195
+3816,🆖,NG button,Symbols,alphanum,1F196
+3817,🅾️,O button (blood type),Symbols,alphanum,1F17E FE0F
+3818,🅾,O button (blood type),Symbols,alphanum,1F17E
+3819,🆗,OK button,Symbols,alphanum,1F197
+3820,🅿️,P button,Symbols,alphanum,1F17F FE0F
+3821,🅿,P button,Symbols,alphanum,1F17F
+3822,🆘,SOS button,Symbols,alphanum,1F198
+3823,🆙,UP! button,Symbols,alphanum,1F199
+3824,🆚,VS button,Symbols,alphanum,1F19A
+3825,🈁,Japanese “here” button,Symbols,alphanum,1F201
+3826,🈂️,Japanese “service charge” button,Symbols,alphanum,1F202 FE0F
+3827,🈂,Japanese “service charge” button,Symbols,alphanum,1F202
+3828,🈷️,Japanese “monthly amount” button,Symbols,alphanum,1F237 FE0F
+3829,🈷,Japanese “monthly amount” button,Symbols,alphanum,1F237
+3830,🈶,Japanese “not free of charge” button,Symbols,alphanum,1F236
+3831,🈯,Japanese “reserved” button,Symbols,alphanum,1F22F
+3832,🉐,Japanese “bargain” button,Symbols,alphanum,1F250
+3833,🈹,Japanese “discount” button,Symbols,alphanum,1F239
+3834,🈚,Japanese “free of charge” button,Symbols,alphanum,1F21A
+3835,🈲,Japanese “prohibited” button,Symbols,alphanum,1F232
+3836,🉑,Japanese “acceptable” button,Symbols,alphanum,1F251
+3837,🈸,Japanese “application” button,Symbols,alphanum,1F238
+3838,🈴,Japanese “passing grade” button,Symbols,alphanum,1F234
+3839,🈳,Japanese “vacancy” button,Symbols,alphanum,1F233
+3840,㊗️,Japanese “congratulations” button,Symbols,alphanum,3297 FE0F
+3841,㊗,Japanese “congratulations” button,Symbols,alphanum,3297
+3842,㊙️,Japanese “secret” button,Symbols,alphanum,3299 FE0F
+3843,㊙,Japanese “secret” button,Symbols,alphanum,3299
+3844,🈺,Japanese “open for business” button,Symbols,alphanum,1F23A
+3845,🈵,Japanese “no vacancy” button,Symbols,alphanum,1F235
+3849,🟢,green circle,Symbols,geometric,1F7E2
+3850,🔵,blue circle,Symbols,geometric,1F535
+3851,🟣,purple circle,Symbols,geometric,1F7E3
+3852,🟤,brown circle,Symbols,geometric,1F7E4
+3853,⚫,black circle,Symbols,geometric,26AB
+3854,⚪,white circle,Symbols,geometric,26AA
+3855,🟥,red square,Symbols,geometric,1F7E5
+3856,🟧,orange square,Symbols,geometric,1F7E7
+3857,🟨,yellow square,Symbols,geometric,1F7E8
+3858,🟩,green square,Symbols,geometric,1F7E9
+3859,🟦,blue square,Symbols,geometric,1F7E6
+3860,🟪,purple square,Symbols,geometric,1F7EA
+3861,🟫,brown square,Symbols,geometric,1F7EB
+3862,⬛,black large square,Symbols,geometric,2B1B
+3863,⬜,white large square,Symbols,geometric,2B1C
+3864,◼️,black medium square,Symbols,geometric,25FC FE0F
+3865,◼,black medium square,Symbols,geometric,25FC
+3866,◻️,white medium square,Symbols,geometric,25FB FE0F
+3867,◻,white medium square,Symbols,geometric,25FB
+3868,◾,black medium-small square,Symbols,geometric,25FE
+3869,◽,white medium-small square,Symbols,geometric,25FD
+3870,▪️,black small square,Symbols,geometric,25AA FE0F
+3871,▪,black small square,Symbols,geometric,25AA
+3872,▫️,white small square,Symbols,geometric,25AB FE0F
+3873,▫,white small square,Symbols,geometric,25AB
+3874,🔶,large orange diamond,Symbols,geometric,1F536
+3875,🔷,large blue diamond,Symbols,geometric,1F537
+3876,🔸,small orange diamond,Symbols,geometric,1F538
+3877,🔹,small blue diamond,Symbols,geometric,1F539
+3878,🔺,red triangle pointed up,Symbols,geometric,1F53A
+3879,🔻,red triangle pointed down,Symbols,geometric,1F53B
+3880,💠,diamond with a dot,Symbols,geometric,1F4A0
+3881,🔘,radio button,Symbols,geometric,1F518
+3882,🔳,white square button,Symbols,geometric,1F533
+3883,🔲,black square button,Symbols,geometric,1F532
+4121,🇹🇬,flag: Togo,Flags,country-flag,1F1F9 1F1EC
+4122,🇹🇭,flag: Thailand,Flags,country-flag,1F1F9 1F1ED
+4123,🇹🇯,flag: Tajikistan,Flags,country-flag,1F1F9 1F1EF
+4124,🇹🇰,flag: Tokelau,Flags,country-flag,1F1F9 1F1F0
+4125,🇹🇱,flag: Timor-Leste,Flags,country-flag,1F1F9 1F1F1
+4126,🇹🇲,flag: Turkmenistan,Flags,country-flag,1F1F9 1F1F2
+4127,🇹🇳,flag: Tunisia,Flags,country-flag,1F1F9 1F1F3
+4128,🇹🇴,flag: Tonga,Flags,country-flag,1F1F9 1F1F4
+4129,🇹🇷,flag: Turkey,Flags,country-flag,1F1F9 1F1F7
+4130,🇹🇹,flag: Trinidad & Tobago,Flags,country-flag,1F1F9 1F1F9
+4131,🇹🇻,flag: Tuvalu,Flags,country-flag,1F1F9 1F1FB
+4132,🇹🇼,flag: Taiwan,Flags,country-flag,1F1F9 1F1FC
+4133,🇹🇿,flag: Tanzania,Flags,country-flag,1F1F9 1F1FF
+4134,🇺🇦,flag: Ukraine,Flags,country-flag,1F1FA 1F1E6
+4135,🇺🇬,flag: Uganda,Flags,country-flag,1F1FA 1F1EC
+4136,🇺🇲,flag: U.S. Outlying Islands,Flags,country-flag,1F1FA 1F1F2
+4137,🇺🇳,flag: United Nations,Flags,country-flag,1F1FA 1F1F3
+4138,🇺🇸,flag: United States,Flags,country-flag,1F1FA 1F1F8
+4139,🇺🇾,flag: Uruguay,Flags,country-flag,1F1FA 1F1FE
+4140,🇺🇿,flag: Uzbekistan,Flags,country-flag,1F1FA 1F1FF
+4141,🇻🇦,flag: Vatican City,Flags,country-flag,1F1FB 1F1E6
+4142,🇻🇨,flag: St. Vincent & Grenadines,Flags,country-flag,1F1FB 1F1E8
+4143,🇻🇪,flag: Venezuela,Flags,country-flag,1F1FB 1F1EA
+4144,🇻🇬,flag: British Virgin Islands,Flags,country-flag,1F1FB 1F1EC
+4145,🇻🇮,flag: U.S. Virgin Islands,Flags,country-flag,1F1FB 1F1EE
+4146,🇻🇳,flag: Vietnam,Flags,country-flag,1F1FB 1F1F3
+4147,🇻🇺,flag: Vanuatu,Flags,country-flag,1F1FB 1F1FA
+4148,🇼🇫,flag: Wallis & Futuna,Flags,country-flag,1F1FC 1F1EB
+4149,🇼🇸,flag: Samoa,Flags,country-flag,1F1FC 1F1F8
+4150,🇽🇰,flag: Kosovo,Flags,country-flag,1F1FD 1F1F0
+4151,🇾🇪,flag: Yemen,Flags,country-flag,1F1FE 1F1EA
+4152,🇾🇹,flag: Mayotte,Flags,country-flag,1F1FE 1F1F9
+4153,🇿🇦,flag: South Africa,Flags,country-flag,1F1FF 1F1E6
+4154,🇿🇲,flag: Zambia,Flags,country-flag,1F1FF 1F1F2
+4155,🇿🇼,flag: Zimbabwe,Flags,country-flag,1F1FF 1F1FC
